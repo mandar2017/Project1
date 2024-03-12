@@ -1,0 +1,1618 @@
+.PME {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .PME .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 8135px;
+    position: relative;
+  }
+  
+   .text-wrapper {
+    position: absolute;
+    top: 42px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 10px;
+  }
+  
+
+  .about-me-first-background-frame {
+    width: 107px;
+    height: 27px;
+    position: absolute;
+    margin: 0 !important;
+    bottom: 2020px;
+    left: 666px;
+    background-color: var(--color-navajowhite);
+  }
+
+  .about-me{
+    position: relative;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .text-wrapper-2 {
+    position: absolute;
+    top: 42px;
+    left: 738px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    
+  }
+  .skills-frame {
+    align-items: flex-end;
+    height: 22px;
+    font-family: 'MyFont';
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+
+   .skills-frame :hover{
+    color: plum;
+   }
+
+   .skills-frame-2 {
+    align-items: flex-end;
+    height: 22px;
+    font-family: 'MyFont';
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+
+  .skills-frame-2 :hover{
+    color: plum;
+   }
+   
+
+   .skills-frame-3 {
+    align-items: flex-end;
+    height: 22px;
+    font-family: 'MyFont';
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+
+  .skills-frame-3 :hover{
+    color: plum;
+   }
+
+   .skills-frame-4 {
+    align-items: flex-end;
+    height: 22px;
+    font-family: 'MyFont';
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+
+  .skills-frame-4 :hover{
+    color: plum;
+   }
+
+
+  
+   .text-wrapper-3 {
+    position: absolute;
+    top: 42px;
+    left: 865px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+   
+  .text-wrapper-4 {
+    position: absolute;
+    top: 42px;
+    left: 955px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+   .text-wrapper-5 {
+    position: absolute;
+    top: 42px;
+    left: 1049px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .group {
+    position: absolute;
+    width: 159px;
+    height: 44px;
+    top: 32px;
+    left: 1155px;
+  }
+  
+  .PME .overlap-group {
+    position: relative;
+    width: 157px;
+    height: 44px;
+  }
+  
+  .PME .rectangle {
+    position: absolute;
+    width: 150px;
+    height: 36px;
+    top: 8px;
+    left: 7px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .PME .rectangle-2 {
+    position: absolute;
+    width: 150px;
+    height: 36px;
+    top: 0;
+    left: 0;
+    background-color: #5ea47a;
+    border: 3px solid;
+    border-color: #000000;
+  }
+
+  .proto,
+  .proto-2{
+    color:#000000;
+  }
+  
+  .PME .text-wrapper-6 {
+    position: absolute;
+    top: 7px;
+    left: 29px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .atag,
+  .atag1,
+  .atag2{
+    color: var(--color-gray-100);
+  }
+
+  
+  .PME .it-enables-the {
+    position: absolute;
+    width: 684px;
+    top: 717px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .p {
+    position: absolute;
+    width: 684px;
+    top: 2308px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-7 {
+    position: absolute;
+    width: 413px;
+    top: 2308px;
+    left: 899px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .each-individual {
+    position: absolute;
+    width: 1184px;
+    top: 2419px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .span {
+    font-weight: 500;
+    color: #00000099;
+  }
+  
+  .PME .text-wrapper-8 {
+    font-weight: 600;
+    color: #000000;
+  }
+  
+  .PME .create-awareness {
+    position: absolute;
+    width: 550px;
+    top: 1499px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .periodic-medical {
+    width: 550px;
+    top: 2875px;
+    left: 128px;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    line-height: 28px;
+    position: absolute;
+    font-family: "Encode Sans", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .PME .with-this-feature-in {
+    position: absolute;
+    width: 550px;
+    top: 4259px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .jiohealth-PME {
+    position: absolute;
+    width: 550px;
+    top: 4259px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 400;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-9 {
+    font-weight: 500;
+  }
+  
+  .PME .text-wrapper-10 {
+    font-weight: 600;
+  }
+  
+  .PME .text-wrapper-11 {
+    position: absolute;
+    width: 550px;
+    top: 2531px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-12 {
+    position: absolute;
+    width: 550px;
+    top: 1499px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .life-expectancy-and {
+    position: absolute;
+    width: 550px;
+    top: 2875px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .most-adults-need-a {
+    position: absolute;
+    width: 550px;
+    top: 3123px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .health-check-up-is {
+    position: absolute;
+    width: 1184px;
+    top: 7791px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .a-periodic-health {
+    position: absolute;
+    width: 550px;
+    top: 3123px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-13 {
+    position: absolute;
+    width: 550px;
+    top: 2531px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .overlap {
+    position: absolute;
+    width: 551px;
+    height: 84px;
+    top: 2671px;
+    left: 128px;
+  }
+  
+  .PME .create-a-constant {
+    position: absolute;
+    width: 550px;
+    top: 0;
+    left: 0;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .condition-management {
+    position: absolute;
+    width: 178px;
+    top: 28px;
+    left: 373px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .health-articles {
+    position: absolute;
+    width: 158px;
+    top: 2699px;
+    left: 1150px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .ABHA-linked-health {
+    position: absolute;
+    width: 195px;
+    top: 2699px;
+    left: 817px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-14 {
+    position: absolute;
+    width: 62px;
+    top: 717px;
+    left: 899px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000cc;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-15 {
+    position: absolute;
+    top: 717px;
+    left: 967px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-16 {
+    position: absolute;
+    top: 751px;
+    left: 975px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-17 {
+    position: absolute;
+    top: 751px;
+    left: 899px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000cc;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-18 {
+    position: absolute;
+    top: 786px;
+    left: 899px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000cc;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-19 {
+    position: absolute;
+    top: 786px;
+    left: 975px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .overlap-wrapper {
+    position: absolute;
+    width: 313px;
+    height: 46px;
+    top: 640px;
+    left: 128px;
+  }
+  
+  .PME .overlap-2 {
+    position: relative;
+    width: 311px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-3 {
+    width: 310px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .text-wrapper-20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .text-wrapper-21 {
+    position: absolute;
+    top: 1459px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-22 {
+    position: absolute;
+    top: 4231px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-23 {
+    position: absolute;
+    top: 4231px;
+    left: 762px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-24 {
+    position: absolute;
+    top: 2491px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-25 {
+    top: 5388px;
+    left: 128px;
+    color: #b962a7;
+    font-size: 14px;
+    line-height: 28px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  
+  .PME .text-wrapper-26 {
+    position: absolute;
+    top: 5907px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-27 {
+    position: absolute;
+    top: 2631px;
+    left: 128px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-28 {
+    position: absolute;
+    top: 1459px;
+    left: 762px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-29 {
+    position: absolute;
+    top: 2491px;
+    left: 762px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #b962a7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .PME .text-wrapper-30 {
+    position: absolute;
+    width: 550px;
+    top: 995px;
+    left: 128px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-31 {
+    position: absolute;
+    width: 550px;
+    top: 995px;
+    left: 762px;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .overlap-group-wrapper {
+    position: absolute;
+    width: 157px;
+    height: 46px;
+    top: 926px;
+    left: 128px;
+  }
+  
+  .PME .overlap-3 {
+    position: relative;
+    width: 155px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-4 {
+    width: 155px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .div-wrapper {
+    position: absolute;
+    width: 272px;
+    height: 46px;
+    top: 2231px;
+    left: 128px;
+  }
+  
+  .PME .overlap-4 {
+    position: relative;
+    width: 270px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-5 {
+    width: 270px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .group-2 {
+    position: absolute;
+    width: 385px;
+    height: 46px;
+    top: 2806px;
+    left: 128px;
+  }
+  
+  .PME .overlap-5 {
+    position: relative;
+    width: 383px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-6 {
+    width: 382px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .group-3 {
+    position: absolute;
+    width: 556px;
+    height: 46px;
+    top: 4160px;
+    left: 128px;
+  }
+  
+  .PME .overlap-6 {
+    position: relative;
+    width: 554px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-7 {
+    width: 554px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .group-4 {
+    position: absolute;
+    width: 1184px;
+    height: 300px;
+    top: 1120px;
+    left: 128px;
+  }
+  
+  .PME .overlap-7 {
+    position: relative;
+    height: 300px;
+    border-radius: 16px;
+  }
+  
+  .PME .rectangle-8 {
+    position: absolute;
+    width: 1184px;
+    height: 300px;
+    top: 0;
+    left: 0;
+    background-color: #f0f4f7;
+    border-radius: 16px;
+    opacity: 0.2;
+  }
+  
+  .PME .group-5 {
+    position: absolute;
+    width: 1110px;
+    height: 210px;
+    top: 45px;
+    left: 33px;
+  }
+  
+  .PME .overlap-8 {
+    position: absolute;
+    width: 213px;
+    height: 138px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PME .ellipse {
+    background: linear-gradient(180deg, rgb(99, 192, 147) 0%, rgba(217, 217, 217, 0) 100%);
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 1px;
+    left: 0;
+    border-radius: 38px;
+  }
+  
+  .PME .group-6 {
+    position: absolute;
+    width: 206px;
+    height: 138px;
+    top: 0;
+    left: 7px;
+  }
+  
+  .PME .text-wrapper-32 {
+    position: absolute;
+    top: 0;
+    left: 3px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .text-wrapper-33 {
+    position: absolute;
+    top: 52px;
+    left: 3px;
+    font-family: "LEMON MILK-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .text-wrapper-34 {
+    position: absolute;
+    width: 200px;
+    top: 90px;
+    left: 0;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .PME .overlap-group-2 {
+    position: absolute;
+    width: 213px;
+    height: 186px;
+    top: 0;
+    left: 301px;
+  }
+  
+  .PME .ellipse-2 {
+    background: linear-gradient(180deg, rgb(192, 138.06, 99) 0%, rgba(217, 217, 217, 0) 100%);
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 1px;
+    left: 0;
+    border-radius: 38px;
+  }
+  
+  .PME .group-7 {
+    position: absolute;
+    width: 206px;
+    height: 186px;
+    top: 0;
+    left: 7px;
+  }
+  
+  .PME .overlap-9 {
+    position: absolute;
+    width: 212px;
+    height: 210px;
+    top: 0;
+    left: 603px;
+  }
+  
+  .PME .ellipse-3 {
+    background: linear-gradient(180deg, rgb(99, 141.78, 192) 0%, rgba(217, 217, 217, 0) 100%);
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 1px;
+    left: 0;
+    border-radius: 38px;
+  }
+  
+  .PME .group-8 {
+    position: absolute;
+    width: 206px;
+    height: 210px;
+    top: 0;
+    left: 6px;
+  }
+  
+  .PME .overlap-10 {
+    position: absolute;
+    width: 214px;
+    height: 186px;
+    top: 0;
+    left: 902px;
+  }
+  
+  .PME .ellipse-4 {
+    background: linear-gradient(180deg, rgb(192, 99, 165.96) 0%, rgba(217, 217, 217, 0) 100%);
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 1px;
+    left: 0;
+    border-radius: 38px;
+  }
+  
+  .PME .group-9 {
+    position: absolute;
+    width: 206px;
+    height: 186px;
+    top: 0;
+    left: 8px;
+  }
+  
+  .PME .overlap-11 {
+    position: absolute;
+    width: 1184px;
+    height: 500px;
+    top: 1691px;
+    left: 128px;
+    background-color:#F0F4F7;
+    border-radius: 16px;
+  }
+  
+  .PME .mask-group {
+    position: absolute;
+    width: 720px;
+    height: 441px;
+    top: 32px;
+    left: 459px;
+    mix-blend-mode: multiply;
+  }
+  
+  .PME .group-10 {
+    position: absolute;
+    width: 466px;
+    height: 170px;
+    top: 165px;
+    left: 30px;
+  }
+  
+  .PME .text-wrapper-35 {
+    position: absolute;
+    width: 462px;
+    top: 58px;
+    left: 0;
+    font-family: "Encode Sans", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .PME .text-wrapper-36 {
+    position: absolute;
+    width: 200px;
+    top: 0;
+    left: 0;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .group-11 {
+    position: absolute;
+    width: 1186px;
+    height: 692px;
+    top: 3444px;
+    left: 128px;
+  }
+  
+  .PME .overlap-12 {
+    position: relative;
+    width: 1184px;
+    height: 692px;
+  }
+  
+  .PME .rectangle-9 {
+    position: absolute;
+    width: 1184px;
+    height: 676px;
+    top: 0;
+    left: 0;
+    background-color: #f0f4f7;
+    border-radius: 16px;
+  }
+  
+  .PME .rakesh-employee-page {
+    position: absolute;
+    width: 915px;
+    height: 647px;
+    top: 0;
+    left: 135px;
+    mix-blend-mode: darken;
+    object-fit: cover;
+  }
+  
+  .PME .img {
+    position: absolute;
+    width: 525px;
+    height: 196px;
+    top: 496px;
+    left: 384px;
+    mix-blend-mode: multiply;
+  }
+  
+  .PME .rectangle-10 {
+    position: absolute;
+    width: 346px;
+    height: 72px;
+    top: 20px;
+    left: 419px;
+    background-color: #f0f4f7;
+  }
+  
+  .PME .text-wrapper-37 {
+    position: absolute;
+    top: 24px;
+    left: 447px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .roadmap {
+    position: absolute;
+    width: 1186px;
+    height: 681px;
+    top: 4590px;
+    left: 128px;
+  }
+  
+  .PME .overlap-13 {
+    position: relative;
+    width: 1184px;
+    height: 681px;
+    background-color: #f0f4f7;
+    border-radius: 16px;
+  }
+  
+  .PME .mask-group-2 {
+    position: absolute;
+    width: 1085px;
+    height: 583px;
+    top: 74px;
+    left: 50px;
+  }
+  
+  .PME .text-wrapper-38 {
+    position: absolute;
+    width: 200px;
+    top: 24px;
+    left: 492px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .group-12 {
+    position: absolute;
+    width: 118px;
+    height: 46px;
+    top: 5311px;
+    left: 128px;
+  }
+  
+  .PME .overlap-14 {
+    position: relative;
+    width: 116px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-11 {
+    width: 116px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .group-13 {
+    position: absolute;
+    width: 214px;
+    height: 46px;
+    top: 7722px;
+    left: 128px;
+  }
+  
+  .PME .overlap-15 {
+    position: relative;
+    width: 212px;
+    height: 46px;
+  }
+  
+  .PME .rectangle-12 {
+    width: 212px;
+    height: 27px;
+    top: 19px;
+    background-color: #ffdc9f;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .mask-group-3 {
+    position: absolute;
+    width: 1109px;
+    height: 426px;
+    top: 5442px;
+    left: 166px;
+  }
+  
+  .PME .overlap-16 {
+    position: absolute;
+    width: 737px;
+    height: 948px;
+    top: 5945px;
+    left: 111px;
+  }
+  
+  .PME .group-14 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PME .group-15 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 472px;
+    left: 0;
+  }
+  
+  .PME .group-16 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 0;
+    left: 244px;
+  }
+  
+  .PME .group-17 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 472px;
+    left: 244px;
+  }
+  
+  .PME .group-18 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 0;
+    left: 487px;
+  }
+  
+ 
+
+  .PME .group-19 {
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 472px;
+    left: 487px;
+  }
+  
+  .PME .overlap-17 {
+    position: absolute;
+    width: 737px;
+    height: 476px;
+    top: 6897px;
+    left: 111px;
+  }
+  
+  .PME .overlap-new {
+    position: absolute;
+    width: 737px;
+    height: 476px;
+    top: 6897px;
+    left: 111px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+
+  
+
+  
+
+  
+
+  
+
+  .PME .overlap-new-6 {
+    position: absolute;
+    width: 205px;
+    height: 619px;
+    top: 7850px;
+    left: 350px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+  
+  .PME .overlap-18 {
+    position: relative;
+    height: 440px;
+  }
+
+  .group-new-mask{
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: -955px;
+    left: 735px;
+  }
+  
+
+  .group-new-mask-10{
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 6417px;
+    left: 1090px;
+  }
+
+  .group-new-mask-9{
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 5940px;
+    left: 1090px;
+  }
+
+  .group-new-mask-8{
+    position: absolute;
+    width: 250px;
+    height: 476px;
+    top: 6895px;
+    left: 850px;
+  }
+
+  .group-new-mask-7{
+    position: absolute;
+    width: 737px;
+    height: 476px;
+    top: 6415px;
+    left: 600px;
+  }
+
+  .group-new-mask-6{
+    position: absolute;
+    width: 737px;
+    height: 476px;
+    top: 5945px;
+    left: 600px;
+  }
+  
+
+  .PME .mask-group-4 {
+    position: absolute;
+    width: 205px;
+    height: 438px;
+    top: 1px;
+    left: 5px;
+  }
+  
+  .PME .group-21 {
+    position: absolute;
+    width: 214px;
+    height: 440px;
+    top: 0;
+    left: 0;
+  }
+  
+  .group-22{
+    position: absolute;
+    width: 737px;
+    height: 476px;
+    top: 6800px;
+    left: 900px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+  
+  .PME .group-23 {
+    position: absolute;
+    width: 214px;
+    height: 440px;
+    top: 6908px;
+    left: 859px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+  
+  .PME .group-24 {
+    position: absolute;
+    width: 214px;
+    height: 440px;
+    top: 5956px;
+    left: 1102px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+  
+  .PME .group-25 {
+    position: absolute;
+    width: 214px;
+    height: 440px;
+    top: 6428px;
+    left: 1102px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+  
+  .PME .group-26 {
+    position: absolute;
+    width: 214px;
+    height: 620px;
+    top: 6908px;
+    left: 1102px;
+    box-shadow: 1px 7px 18px #00000014;
+  }
+
+
+.PME .mask-group-5 {
+    position: absolute;
+    width: 205px;
+    height: 619px;
+    top: 6910px;
+    left: 1120px;
+  }
+  
+  .PME .overlap-19 {
+    position: relative;
+    height: 620px;
+  }
+  
+  
+  .PME .group-27 {
+    position: absolute;
+    width: 214px;
+    height: 620px;
+    top: 6910px;
+    left: 1118px;
+  }
+  
+  .PME .group-28 {
+    position: absolute;
+    width: 196px;
+    height: 44px;
+    top: 7592px;
+    left: 623px;
+  }
+  
+  .PME .overlap-20 {
+    position: relative;
+    width: 194px;
+    height: 44px;
+  }
+  
+  .PME .rectangle-13 {
+    width: 185px;
+    left: 9px;
+    position: absolute;
+    height: 36px;
+    top: 8px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .PME .rectangle-14 {
+    width: 185px;
+    height: 36px;
+    top: 0;
+    background-color: #5ea47a;
+    border: 3px solid;
+    border-color: #000000;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .text-wrapper-39 {
+    position: absolute;
+    top: 7px;
+    left: 29px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .group-29 {
+    position: absolute;
+    width: 236px;
+    height: 44px;
+    top: 8010px;
+    left: 603px;
+  }
+  
+  .PME .overlap-21 {
+    position: relative;
+    width: 234px;
+    height: 44px;
+  }
+  
+  .PME .rectangle-15 {
+    width: 223px;
+    left: 11px;
+    position: absolute;
+    height: 36px;
+    top: 8px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .PME .rectangle-16 {
+    width: 223px;
+    height: 36px;
+    top: 0;
+    background-color: #5ea47a;
+    border: 3px solid;
+    border-color: #000000;
+    position: absolute;
+    left: 0;
+  }
+  
+  .PME .text-wrapper-40 {
+    position: absolute;
+    top: 6px;
+    left: 25px;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #00000099;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .purple-container {
+    position: absolute;
+    width: 1184px;
+    height: 501px;
+    top: 107px;
+    left: 128px;
+  }
+  
+  .PME .overlap-22 {
+    position: relative;
+    height: 501px;
+  }
+  
+  .PME .rectangle-17 {
+    position: absolute;
+    width: 1184px;
+    height: 500px;
+    top: 1px;
+    left: 0;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgb(96, 73, 111) 0%, rgb(126, 111, 137) 100%);
+  }
+  
+  .PME .white-phone {
+    position: absolute;
+    width: 1184px;
+    height: 500px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .PME .group-30 {
+    position: absolute;
+    width: 466px;
+    height: 132px;
+    top: 185px;
+    left: 32px;
+  }
+  
+  .PME .text-wrapper-41 {
+    width: 462px;
+    top: 57px;
+    left: 0;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    position: absolute;
+    font-family: "Encode Sans", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .PME .text-wrapper-42 {
+    position: absolute;
+    width: 200px;
+    top: 0;
+    left: 0;
+    font-family: "LEMON MILK-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PME .masked-phone-over {
+    position: absolute;
+    width: 556px;
+    height: 501px;
+    top: 0;
+    left: 567px;
+  }

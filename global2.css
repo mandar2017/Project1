@@ -1,0 +1,104 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Encode+Sans:500,600|Encode+Sans+Condensed:600");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Encode+Sans:500,400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "LEMON MILK-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/5e46ed29e4d993eaaec18f4c/LEMONMILK-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "LEMON MILK-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/64450fb0adea33f5e3179f22/fonts/lemonmilk-medium.otf")
+    format("opentype");
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lemon-milk: "LEMON MILK";
+  --font-encode-sans: "Encode Sans";
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+  --color-navajowhite: #ffdd9f;
+  --color-whitesmoke: #f3f3f3;
+  --color-powderblue: #a6e6f0;
+  --color-gray-100: rgba(0, 0, 0, 0.6);
+  --color-gray-200: rgba(0, 0, 0, 0.8);
+  --color-darkseagreen: #5ea47a;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-11xl: 30px;
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-12xs: 1px;
+  --padding-3xs: 10px;
+  --padding-6xs: 7px;
+  --padding-10xs: 3px;
+
+  /* Border radiuses */
+  --br-181xl: 200px;
+  --br-base: 16px;
+}
+
+
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "LEMON MILK-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/5e46ed29e4d993eaaec18f4c/LEMONMILK-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "LEMON MILK-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/64450fb0adea33f5e3179f22/fonts/lemonmilk-medium.otf")
+    format("opentype");
+}
